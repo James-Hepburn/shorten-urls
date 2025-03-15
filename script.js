@@ -1,4 +1,4 @@
-var url = "https://api.shorten-jeh.com/shorten";
+var url = "https://o5l680ciqi.execute-api.us-east-1.amazonaws.com/prod/shorten";
 
 document.querySelector ("form").addEventListener ("submit", async function (event) {
     event.preventDefault ();
